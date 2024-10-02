@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "书签卡片展示",
+  "version": "1.0",
+  "description": "以卡片形式展示书签和文件夹",
+  "permissions": [
+    "bookmarks",
+    "activeTab"
+  ],
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "书签卡片"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["styles.css"],
+      "js": ["content.js"]
+    }
+  ]
+}
