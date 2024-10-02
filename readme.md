@@ -21,9 +21,9 @@
 
   + 浏览器右上角点击：
 
-    ![](.//pic//Snipaste_2024-10-02_12-23-35.png)
+    <img src=".//pic//Snipaste_2024-10-02_12-23-35.png" style="zoom:110%;" />
 
-    ![](.//pic//Snipaste_2024-10-02_12-24-06.png)
+    <img src=".//pic//Snipaste_2024-10-02_12-24-06.png" style="zoom:80%;" />
 
 
 
@@ -33,8 +33,8 @@
 
   ![](.//pic//Snipaste_2024-10-02_12-21-19.png)
 
-  ![](.//pic//Snipaste_2024-10-02_12-18-43.png)
+  <img src=".//pic//Snipaste_2024-10-02_12-18-43.png" style="zoom:60%;" />
 
-  ![](.//pic//Snipaste_2024-10-02_12-20-32.png)
+  <img src=".//pic//Snipaste_2024-10-02_12-20-32.png" style="zoom:60%;" />
 
   
