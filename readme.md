@@ -23,7 +23,7 @@
 
     ![](.//pic//Snipaste_2024-10-02_12-23-35.png)
 
-    ![](.\pic\Snipaste_2024-10-02_12-24-06.png)
+    ![](.//pic//Snipaste_2024-10-02_12-24-06.png)
 
 
 
@@ -31,10 +31,10 @@
 
 + **效果展示**
 
-  ![](.\pic\Snipaste_2024-10-02_12-21-19.png)
+  ![](.//pic//Snipaste_2024-10-02_12-21-19.png)
 
-  ![](F:\BaiduNetdiskDownload\bookmark-extension-master\bookmark-extension-master\pic\Snipaste_2024-10-02_12-18-43.png)
+  ![](.//pic//Snipaste_2024-10-02_12-18-43.png)
 
-  ![](.\pic\Snipaste_2024-10-02_12-20-32.png)
+  ![](.//pic//Snipaste_2024-10-02_12-20-32.png)
 
   
