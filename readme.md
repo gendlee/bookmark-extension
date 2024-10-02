@@ -33,8 +33,12 @@
 
   ![](.//pic//Snipaste_2024-10-02_12-21-19.png)
 
-  <img src=".//pic//Snipaste_2024-10-02_12-18-43.png" style="zoom:60%;" />
+  
 
+  ---
+
+  
+  
   <img src=".//pic//Snipaste_2024-10-02_12-20-32.png" style="zoom:60%;" />
-
+  
   
